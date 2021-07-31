@@ -10,7 +10,7 @@ def main():
 
         numbers.append(number)
 
-    print(numbers[1] + numbers[2])
+    print(numbers[0])
 
 if __name__ == '__main__':
     main()
